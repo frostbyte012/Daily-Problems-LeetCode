@@ -14,10 +14,10 @@ bool validParnatheses(string s)
            st.push(s[i]);
         else
             {
-                if(!st.empty() && st.top()!=s[i])
+                if(!st.empty() && st.top()==mp[s[i]])
                    st.pop();
                 else
-                   return 0;
+                   return false;
                    
             }
     } 
