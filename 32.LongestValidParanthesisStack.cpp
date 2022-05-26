@@ -1,6 +1,6 @@
 #include<bits/stdc++.h> 
 using namespace std;
-bool longestValidParentheses(string s)
+int longestValidParentheses(string s)
 {
     stack <int> st;
     st.push(-1);
