@@ -39,7 +39,7 @@ return nums;
 
   int main()
   {
-      vector <int> nums={3,1,2,4};
-      cout<<sortArrayByParity(nums)<<endl;
+      vector <int> nums={3,1,2,4},res;
+      res=sortArrayByParity(nums);
       return 0;
   }
