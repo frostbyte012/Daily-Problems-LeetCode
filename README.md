@@ -21,8 +21,10 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>32. Longest Valid Parantheses. [Hard]</li>
 <li>32. Longest Valid Parantheses using Stack [Hard] </li>
 <li>191. Number of 1's Bits  [Easy]</li>
+<li>354. Russian Doll Envelopes. [Hard] </li>
 <li>844. Back Space String Problem. [Easy] [Easy]</li>
 <li>905. Sort Array By Parity. [Easy] </li>
+<li>1342. Number of Steps to Reduce A Number To Zero. [Easy] </li>
 </ul>
 <br>
 <h2>Happy LeetCoding !!!</h2>
