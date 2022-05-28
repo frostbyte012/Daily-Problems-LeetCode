@@ -1,0 +1,71 @@
+C++ DSA Placement Course :
+DataTypes :{ Primitve : {int,char,float,bool}, Derived : {function,array,pointer,reference,}, User Defined: {Class,Structure,Union,Enum}}
+Integer : {Size : 4 byte}
+	    { range unsigned + 0 to 2^32 - 1},
+          { range for signed 2^32 to 2^32-1 , we store 2^32 for removing the negative zero}
+	    { we use MSB for storing the sign of the integers}
+Float : {Size : 4 byte}
+Double : {Size : 8 byte}
+Char : {Size : 1 byte}, {ASCII code 'A' to 'Z' - 65 to 90 and for 'a' to 'z' - 97 to 122}
+Boolean : {Size : 1 byte}, {0 for False and 1 for True}
+Type Modifiers : {long and short}
+
+structure ot the code:
+ 
+# include <iostream>              //used for the Preprocessing directive for integrsting the file system of c++ to include files
+//using namespace std;              // used for importing different types of std
+
+int main(){                       // exexcution of the program begins from here
+
+    std::cout<<"Hello World"<<endl;    //name space standard package
+    return 0;                      // returns zero and ends the program
+}
+
+Loops : {for, while, do while : {at least once it lets the entry before checking the conditions}}
+
+continue and break steatements : {continue moves to the next iteration, break terminates the 'ONLY' loop it is in.}
+
+switch case : {they are modified edition of if else case or if else ladder just better optimized}
+
+operators in c++ : uniary ++, -- and binary operators : +,-,/,*
+
+pre incremental and psot incremental ++i, i++
+pre decremental and post decremental --i, i--
+ 
+Relational operators  <returns bool> : <,>,<=,>=,!=,==
+Logical operators <returns bool> : &&,||,!
+Bitwise operators : &,|,^[XOR],~[ones compliment],<<[left shift],>>[right shift] [on left shift the formula becomes a<<n = a*2^n]
+                                                                                 [on right shift the formula becomes a>>n = a/2^n]      
+Assignment Operators : assigns value : [=,*=,+=,-=,/=]
+
+Operators:
+Sizeof() :         Returns the size of the variables
+Condition ? x : y  ternery operators
+Cast               convert one data types to another
+Comma(,)           causes a sequence of operations to be performed    [a=(2,5,6) // a gets the value a=6 the last value ]
+&                  returns the address of a variable
+*                  pointer to a variable                              [int *b = &a b gets the value of address of a variable]
+
+operator precedence : see from the table.
+
+ADVANCED PATTERNS: 
+
+*****      *****     *           *    1      1
+*****      *   *     **         **    22     2 3
+*****      *   *     ***       ***    333    4 5 6
+*****      *   *     ****     ****    4444   7 8 9 10
+*****      *****     *****   *****    55555  11 12 13 14 15 [Floyd's Triangle]
+
+
+*             *
+* *         * *
+* * *     * * *
+* * * * * * * * 
+* * * * * * * *
+* * *     * * *
+* *         * *
+*             * [Butterfly Pattern]
+
+
+
+Binary Number system :
