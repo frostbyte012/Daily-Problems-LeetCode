@@ -22,6 +22,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>32. Longest Valid Parantheses using Stack [Hard] </li>
 <li>191. Number of 1's Bits  [Easy]</li>
 <li>268. Missing Number.  [Easy]</li>
+<li>268. Missing Number Using Sinle Formula.  [Easy]</li>
 <li>354. Russian Doll Envelopes. [Hard] </li>
 <li>844. Back Space String Problem. [Easy] [Easy]</li>
 <li>905. Sort Array By Parity. [Easy] </li>
