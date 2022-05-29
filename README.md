@@ -31,4 +31,4 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1342. Number of Steps to Reduce A Number To Zero. [Easy] </li>
 </ul>
 <br>
-<h2>Happy LeetCoding !!!</h2>
+<h2>Happy LeetCoding Fellas!!!</h2>
