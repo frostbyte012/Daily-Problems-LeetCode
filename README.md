@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>318. Maximum Product of Word Lengths by Brute Force.  [Midium]</li>
 <li>318. Maximum Product of Word Lengths by Bit Masking.  [Optimized][Midium]</li>
 <li>354. Russian Doll Envelopes. [Hard] </li>
-<li>844. Back Space String Problem. [Easy] [Easy]</li>
+<li>844. Back Space String Problem. [Easy]</li>
 <li>905. Sort Array By Parity. [Easy] </li>
 <li>1342. Number of Steps to Reduce A Number To Zero. [Easy] </li>
 </ul>
