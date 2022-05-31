@@ -13,7 +13,7 @@ if youre using c++ its great simply add it here : in the main repo:
 Once done kindly update the README.md file by updating the Problems : by adding your code name format : "QNo.xyz_problem [Easy/Medium/Hard] [C++/Python/Java/Language You are using]" 
 </p>
 
-<h3>Streak 10 🔥🔥🔥</h3>
+<h3>Streak Level : 10 🔥🔥🔥</h3>
 
 <h3>Problems :</h3>
 
