@@ -29,7 +29,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>844. Back Space String Problem. [Easy]</li>
 <li>905. Sort Array By Parity. [Easy] </li>
 <li>1342. Number of Steps to Reduce A Number To Zero. [Easy] </li>
-<li>1461. Check If a String Contains All Binary Codes of Size K</li>
+<li>1461. Check If a String Contains All Binary Codes of Size K. [Medium]</li>
 </ul>
 <br>
 <h2>Happy LeetCoding Fellas!!!</h2>
