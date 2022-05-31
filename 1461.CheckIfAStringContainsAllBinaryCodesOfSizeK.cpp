@@ -17,7 +17,8 @@ int main()
     int k;
     string s;
     cout<<"Enter the string and the size of the binary bits length."<<endl;
-    cin>>k>>s;
+    cin>>s;
+    cin>>k;
     cout<<hasAllCodes(s,k)<<endl;
     return 1;
 }
