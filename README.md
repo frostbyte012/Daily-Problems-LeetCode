@@ -22,6 +22,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>32. Longest Valid Parantheses. [Hard]</li>
 <li>32. Longest Valid Parantheses using Stack [Hard] </li>
 <li>191. Number of 1's Bits  [Easy]</li>
+<li>268. Conatains Duplicate.  [Easy]</li>
 <li>268. Missing Number.  [Easy]</li>
 <li>268. Missing Number Using Single Formula.  [Easy]</li>
 <li>318. Maximum Product of Word Lengths by Brute Force.  [Midium]</li>
