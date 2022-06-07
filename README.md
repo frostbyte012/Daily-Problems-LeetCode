@@ -21,6 +21,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>20. Valid Parantheses. [Easy]</li>
 <li>32. Longest Valid Parantheses. [Hard]</li>
 <li>32. Longest Valid Parantheses using Stack [Hard] </li>
+<li>51. N-Queens. [Hard] </li>
 <li>56. Maximum Subarray. [Medium] </li>
 <li>191. Number of 1's Bits  [Easy]</li>
 <li>217. Conatains Duplicate.  [Easy]</li>
