@@ -1,4 +1,4 @@
-# Daily-Problems-LeetCode
+# Daily-Challenge-Problems-LeetCode
 <h1>DAILY PRACTISE PROBLEMS FROM LEETCODE</h1>
 <p>This repo will have the solution of all major leetcode problems and codes in details in order to help solve the codes, open for the opensource learning community. This will help the community to learn and grow together.</p><br><p>All codes are written in C++. I welcome coders to contribute the codes in Python/Java/Other major language as well, if u find it helpful kindly star it and fork and contribute to it.</p><br>
 
