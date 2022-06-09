@@ -26,6 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>56. Maximum Subarray. [Medium] </li>
 <li>88. MergeSortedArray[O(1)]. [Easy] </li>
 <li>160. Intersewction of Two Linked List. [Easy] </li>
+<li>167. Two Sum II Input Array Is Sorted. [Medium] </li>
 <li>191. Number of 1's Bits  [Easy]</li>
 <li>217. Conatains Duplicate.  [Easy]</li>
 <li>217. Conatains Duplicate Optimized Problem file. [Easy]</li>
