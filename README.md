@@ -18,7 +18,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <h3>Problems :</h3>
 
 <ul>
-<li>3. Longest Substring Without Repeating Characters. [Medium]</li>
+<li>03. Longest Substring Without Repeating Characters. [Medium]</li>
 <li>20. Valid Parantheses. [Easy]</li>
 <li>32. Longest Valid Parantheses. [Hard]</li>
 <li>32. Longest Valid Parantheses using Stack [Hard] </li>
