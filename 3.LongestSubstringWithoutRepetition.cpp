@@ -37,5 +37,5 @@ int main()
     cin>>s;
     Solution sol;
     cout<<sol.lengthOfLongestSubstring(s)<<endl;
-    return 1;
+    return 1;c
 }
