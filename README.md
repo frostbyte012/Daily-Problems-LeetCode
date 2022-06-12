@@ -46,6 +46,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1461. Check If a String Contains All Binary Codes of Size K. [Medium]</li>
 <li>1480. Running Sum of 1D Array. [Easy]</li>
 <li>1480. Running Sum of 1D Array [Optimized]. [Easy]</li>
+<li>1695. Maximum Erasure Value . [Medium]</li>
 </ul>
 <br>
 <h2>Happy LeetCoding Fellas!!!</h2>
