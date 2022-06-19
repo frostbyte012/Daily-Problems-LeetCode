@@ -13,7 +13,7 @@ if youre using c++ its great simply add it here : in the main repo:
 Once done kindly update the README.md file by updating the Problems : by adding your code name format : "QNo.xyz_problem [Easy/Medium/Hard] [C++/Python/Java/Language You are using]" 
 </p>
 
-<h3>Streak Level 🔥[Pro] : 19</h3>
+<h3>Streak Level 🔥[Pro] : 20</h3>
 
 <h3>Problems :</h3>
 
@@ -32,6 +32,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>191. Number of 1's Bits  [Easy]</li>
 <li>217. Conatains Duplicate.  [Easy]</li>
 <li>217. Conatains Duplicate Optimized Problem file. [Easy]</li>
+<li>231. Power of Two. [Easy]</li>
 <li>268. Missing Number.  [Easy]</li>
 <li>268. Missing Number Using Single Formula.  [Easy]</li>
 <li>318. Maximum Product of Word Lengths by Brute Force.  [Midium]</li>
@@ -42,6 +43,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>844. Back Space String Problem. [Easy]</li>
 <li>867. Transpose Matrix Problem. [Easy]</li>
 <li>905. Sort Array By Parity. [Easy] </li>
+<li>1009. Complement of Base 10 Integer. [Easy] </li>
 <li>1332. Remove Palindromic Subsequences. [Easy] </li>
 <li>1342. Number of Steps to Reduce A Number To Zero. [Easy] </li>
 <li>1461. Check If a String Contains All Binary Codes of Size K. [Medium]</li>
