@@ -21,6 +21,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>03. Longest Substring Without Repeating Characters. [Medium]</li>
 <li>07. Reverse Integer [Medium]</li>
 <li>20. Valid Parantheses. [Easy]</li>
+<li>31. Next Permutation. [Medium]</li>
 <li>32. Longest Valid Parantheses. [Hard]</li>
 <li>32. Longest Valid Parantheses using Stack [Hard] </li>
 <li>51. N-Queens. [Hard] </li>
