@@ -18,12 +18,15 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <h3>Problems :</h3>
 
 <ul>
+<li>01. Two Sum [Easy].</li>
+<li>01. Two Sum Optimized[Easy].</li>
 <li>03. Longest Substring Without Repeating Characters. [Medium]</li>
 <li>07. Reverse Integer [Medium]</li>
 <li>20. Valid Parantheses. [Easy]</li>
 <li>31. Next Permutation. [Medium]</li>
 <li>32. Longest Valid Parantheses. [Hard]</li>
 <li>32. Longest Valid Parantheses using Stack [Hard] </li>
+<li>42. Trapping rain water. [Hard]</li>
 <li>51. N-Queens. [Hard] </li>
 <li>52. N-Queens-II. [Hard] </li>
 <li>56. Maximum Subarray. [Medium] </li>
@@ -32,9 +35,11 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>160. Intersewction of Two Linked List. [Easy] </li>
 <li>167. Two Sum II Input Array Is Sorted. [Medium] </li>
 <li>191. Number of 1's Bits  [Easy]</li>
+<li>215. Kth Largest Element.  [Medium]</li>
 <li>217. Conatains Duplicate.  [Easy]</li>
 <li>217. Conatains Duplicate Optimized Problem file. [Easy]</li>
 <li>231. Power of Two. [Easy]</li>
+<li>238. Product of Array Except itself. [Medium]</li>
 <li>268. Missing Number.  [Easy]</li>
 <li>268. Missing Number Using Single Formula.  [Easy]</li>
 <li>318. Maximum Product of Word Lengths by Brute Force.  [Midium]</li>
