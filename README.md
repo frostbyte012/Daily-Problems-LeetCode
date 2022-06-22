@@ -13,7 +13,15 @@ if youre using c++ its great simply add it here : in the main repo:
 Once done kindly update the README.md file by updating the Problems : by adding your code name format : "QNo.xyz_problem [Easy/Medium/Hard] [C++/Python/Java/Language You are using]" 
 </p>
 
+<hr>
+
 <h3>Streak Level 🔥[Pro] : 27</h3>
+
+<hr>
+
+<img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/anime-anime-girl.gif" alt="2 phut hon" width="800" height="500">
+
+<hr>
 
 <h3>Problems :</h3>
 
