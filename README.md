@@ -64,10 +64,10 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <hr>
 
 <ul>
-<img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/conejita-dance.gif" alt="2 phut hon"  width="250" height="500">
-<img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/hinata-naruto.gif" alt="2 phut hon"  width="250" height="500">
-<img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/zero-two-code002.gif" alt="2 phut hon" width="250" height="500">
-<img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/anime-dancing.gif" alt="2 phut hon" width="250" height="500">
+<img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/conejita-dance.gif" alt="2 phut hon"  width="200" height="500">
+<img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/hinata-naruto.gif" alt="2 phut hon"  width="200" height="500">
+<img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/zero-two-code002.gif" alt="2 phut hon" width="200" height="500">
+<img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/anime-dancing.gif" alt="2 phut hon" width="200" height="500">
 </ul>
 
 
