@@ -63,7 +63,11 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <h2>Happy LeetCoding Fellas and 2 Phut Hon!!!</h2>
 <hr>
 
+<ul>
 <img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/conejita-dance.gif" alt="2 phut hon" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="150" height="300">
 <img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/hinata-naruto.gif" alt="2 phut hon" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="150" height="300">
 <img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/zero-two-code002.gif" alt="2 phut hon"style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="150" height="300">
 <img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/anime-dancing.gif" alt="2 phut hon" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="150" height="300">
+</ul>
+
+
