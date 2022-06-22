@@ -60,7 +60,6 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 </ul>
 <br>
 
-<hr>
 <h2>Happy LeetCoding Fellas and 2 Phut Hon!!!</h2>
 <hr>
 
