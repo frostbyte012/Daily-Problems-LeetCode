@@ -41,6 +41,8 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>88. MergeSortedArray[O(1)]. [Easy] </li>
 <li>121. Best Time to Buy and Sell a Stock. [Easy] </li>
 <li>152. Maximum Product Subarray. [Medium] </li>
+<li>153. Minimum of Rotated and Sorted Array. [Medium] </li>
+<li>153. Minimum of Rotated and Sorted Array Optimized. [Medium] </li>
 <li>160. Intersewction of Two Linked List. [Easy] </li>
 <li>167. Two Sum II Input Array Is Sorted. [Medium] </li>
 <li>191. Number of 1's Bits  [Easy]</li>
