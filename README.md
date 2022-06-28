@@ -30,6 +30,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>01. Two Sum Optimized[Easy].</li>
 <li>03. Longest Substring Without Repeating Characters. [Medium]</li>
 <li>07. Reverse Integer [Medium]</li>
+<li>11. Container with most water. [Medium]</li>
 <li>15. 3 Sum [Medium]</li>
 <li>20. Valid Parantheses. [Easy]</li>
 <li>31. Next Permutation. [Medium]</li>
@@ -40,6 +41,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>51. N-Queens. [Hard] </li>
 <li>52. N-Queens-II. [Hard] </li>
 <li>56. Maximum Subarray. [Medium] </li>
+<li>56. Merge Intervals. [Medium] </li>
 <li>88. MergeSortedArray[O(1)]. [Easy] </li>
 <li>121. Best Time to Buy and Sell a Stock. [Easy] </li>
 <li>152. Maximum Product Subarray. [Medium] </li>
