@@ -49,6 +49,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>153. Minimum of Rotated and Sorted Array Optimized. [Medium] </li>
 <li>160. Intersewction of Two Linked List. [Easy] </li>
 <li>167. Two Sum II Input Array Is Sorted. [Medium] </li>
+<li>179. Largest Number. [Medium] </li>
 <li>191. Number of 1's Bits  [Easy]</li>
 <li>215. Kth Largest Element.  [Medium]</li>
 <li>217. Conatains Duplicate.  [Easy]</li>
