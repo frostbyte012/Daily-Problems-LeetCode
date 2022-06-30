@@ -62,6 +62,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>318. Maximum Product of Word Lengths by Bit Masking.  [Optimized][Midium]</li>
 <li>344. Reverse the String Problem file. [Easy] </li>
 <li>354. Russian Doll Envelopes. [Hard] </li>
+<li>560. Sub Array Sum Equals k. [Medium] </li>
 <li>575. Distribute Candies. [Medium] </li>
 <li>844. Back Space String Problem. [Easy]</li>
 <li>867. Transpose Matrix Problem. [Easy]</li>
