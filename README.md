@@ -39,10 +39,12 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>32. Longest Valid Parantheses using Stack [Hard] </li>
 <li>33. Search in Rotated Sorted Array [Medium] </li>
 <li>42. Trapping rain water. [Hard]</li>
+<li>49.Group Anagrams [Medium]</li>
 <li>51. N-Queens. [Hard] </li>
 <li>52. N-Queens-II. [Hard] </li>
 <li>56. Maximum Subarray. [Medium] </li>
 <li>56. Merge Intervals. [Medium] </li>
+<li>77. Combinations. [Medium]</li>
 <li>88. MergeSortedArray[O(1)]. [Easy] </li>
 <li>121. Best Time to Buy and Sell a Stock. [Easy] </li>
 <li>152. Maximum Product Subarray. [Medium] </li>
@@ -57,14 +59,17 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>217. Conatains Duplicate Optimized Problem file. [Easy]</li>
 <li>231. Power of Two. [Easy]</li>
 <li>238. Product of Array Except itself. [Medium]</li>
+<li>242. Valid Anagram. [Easy]</li>
 <li>268. Missing Number.  [Easy]</li>
 <li>268. Missing Number Using Single Formula.  [Easy]</li>
 <li>318. Maximum Product of Word Lengths by Brute Force.  [Midium]</li>
 <li>318. Maximum Product of Word Lengths by Bit Masking.  [Optimized][Midium]</li>
 <li>344. Reverse the String Problem file. [Easy] </li>
 <li>354. Russian Doll Envelopes. [Hard] </li>
+<li>424. Longest Character Replacement. [Medium]</li>
 <li>560. Sub Array Sum Equals k. [Medium] </li>
 <li>575. Distribute Candies. [Medium] </li>
+<li>647. Palindromic Substrings. [Medium]</li>
 <li>844. Back Space String Problem. [Easy]</li>
 <li>867. Transpose Matrix Problem. [Easy]</li>
 <li>905. Sort Array By Parity. [Easy] </li>
