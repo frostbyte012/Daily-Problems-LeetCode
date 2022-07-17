@@ -71,6 +71,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>560. Sub Array Sum Equals k. [Medium] </li>
 <li>575. Distribute Candies. [Medium] </li>
 <li>647. Palindromic Substrings. [Medium]</li>
+<li>730. Count Different Palindromic Subsequences [Hard]</li>
 <li>844. Back Space String Problem. [Easy]</li>
 <li>867. Transpose Matrix Problem. [Easy]</li>
 <li>905. Sort Array By Parity. [Easy] </li>
