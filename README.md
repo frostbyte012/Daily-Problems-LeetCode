@@ -15,7 +15,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 39</h3>
+<h3>Streak Level 🔥[Pro] : 40</h3>
 
 <hr>
 
@@ -47,6 +47,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>56. Merge Intervals. [Medium] </li>
 <li>77. Combinations. [Medium]</li>
 <li>88. MergeSortedArray[O(1)]. [Easy] </li>
+<li>118. Pascal's Triangle. [Easy] </li>
 <li>121. Best Time to Buy and Sell a Stock. [Easy] </li>
 <li>152. Maximum Product Subarray. [Medium] </li>
 <li>153. Minimum of Rotated and Sorted Array. [Medium] </li>
