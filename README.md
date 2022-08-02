@@ -68,6 +68,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>318. Maximum Product of Word Lengths by Bit Masking.  [Optimized][Midium]</li>
 <li>344. Reverse the String Problem file. [Easy] </li>
 <li>354. Russian Doll Envelopes. [Hard] </li>
+<li>378. Kth Smallest Element In a Sorted Matrix. [Medium] </li>  
 <li>424. Longest Character Replacement. [Medium]</li>
 <li>516. Minimum Window Substring [Hard]</li>
 <li>560. Sub Array Sum Equals k. [Medium] </li>
