@@ -4,7 +4,9 @@
 
 <hr>
 
-<h3>Lets Pro Code 🔥</h3>
+<h3>Lets Pro Code 🔥 Te Amo's </h3>
+
+<hr>
 
 <img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/machine-gun-kelly-mgk.gif" alt="2 phut hon" width="800" height="500">
 
@@ -99,11 +101,6 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <hr>
 <h2>🔥 Happy LeetCoding Fellas and 2 Phut Hon!!! 🔥</h2>
 <hr>
-
-<hr>
-<img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/machine-gun-kelly-mgk%20(1).gif" alt="2 phut hon" width="760" height="500">
-<hr>
-
 
 <ul>
 <img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/conejita-dance.gif" alt="2 phut hon"  width="190" height="400">
