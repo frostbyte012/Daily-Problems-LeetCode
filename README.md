@@ -101,7 +101,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <hr>
 
 <hr>
-<img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/anime-anime-girl.gif" alt="2 phut hon" width="800" height="500">
+<img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/machine-gun-kelly-mgk%20(1).gif" alt="2 phut hon" width="760" height="500">
 <hr>
 
 
