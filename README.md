@@ -15,7 +15,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 41</h3>
+<h3>Streak Level 🔥[Pro] : 42</h3>
 
 <hr>
 
@@ -74,6 +74,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>560. Sub Array Sum Equals k. [Medium] </li>
 <li>575. Distribute Candies. [Medium] </li>
 <li>647. Palindromic Substrings. [Medium]</li>
+<li>729. My Calender 1. [Medium]</li>
 <li>730. Count Different Palindromic Subsequences [Hard]</li>
 <li>844. Back Space String Problem. [Easy]</li>
 <li>867. Transpose Matrix Problem. [Easy]</li>
