@@ -2,6 +2,14 @@
 <h1>DAILY PRACTISE PROBLEMS FROM LEETCODE</h1>
 <p>This repo will have the solution of all major leetcode problems and codes in details in order to help solve the codes, open for the opensource learning community. This will help the community to learn and grow together.</p><br><p>All codes are written in C++. I welcome coders to contribute the codes in Python/Java/Other major language as well, if u find it helpful kindly star it and fork and contribute to it.</p><br>
 
+<hr>
+
+<h3>Break up Just to Make up 😂</h3>
+
+<img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/anime-anime-girl.gif" alt="2 phut hon" width="800" height="500">
+
+<hr>
+
 <h3>Contribution guidelines:</h3>
 <p>
 If you are contributing in languages other than c++, kindly follow the rules:
@@ -91,6 +99,11 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <hr>
 <h2>🔥 Happy LeetCoding Fellas and 2 Phut Hon!!! 🔥</h2>
 <hr>
+
+<hr>
+<img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/anime-anime-girl.gif" alt="2 phut hon" width="800" height="500">
+<hr>
+
 
 <ul>
 <img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/conejita-dance.gif" alt="2 phut hon"  width="190" height="400">
