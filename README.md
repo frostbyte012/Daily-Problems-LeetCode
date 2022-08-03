@@ -4,9 +4,9 @@
 
 <hr>
 
-<h3>Break up Just to Make up 😂</h3>
+<h3>Lets Pro Code 🔥</h3>
 
-<img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/machine-gun-kelly-blackbear.gif" alt="2 phut hon" width="800" height="500">
+<img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/machine-gun-kelly-mgk.gif" alt="2 phut hon" width="800" height="500">
 
 <hr>
 
