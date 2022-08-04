@@ -8,7 +8,8 @@
 
 <hr>
 
-<img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/machine-gun-kelly-mgk.gif" alt="2 phut hon" width="800" height="500">
+<img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/anime-anime-girl.gif" alt="2 phut hon" width="800" height="500">
+
 
 <hr>
 
@@ -29,7 +30,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/anime-anime-girl.gif" alt="2 phut hon" width="800" height="500">
+<img src="https://github.com/frostbyte012/Daily-Problems-LeetCode/blob/main/leetcode-dance-2phut-hon/machine-gun-kelly-mgk.gif" alt="2 phut hon" width="800" height="500">
 
 <hr>
 
