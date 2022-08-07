@@ -94,6 +94,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>867. Transpose Matrix Problem. [Easy]</li>
 <li>905. Sort Array By Parity. [Easy] </li>
 <li>1009. Complement of Base 10 Integer. [Easy] </li>
+<li>1220. Count Vowels Permutation. [Hard]</li>
 <li>1332. Remove Palindromic Subsequences. [Easy] </li>
 <li>1342. Number of Steps to Reduce A Number To Zero. [Easy] </li>
 <li>1461. Check If a String Contains All Binary Codes of Size K. [Medium]</li>
