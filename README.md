@@ -75,6 +75,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>242. Valid Anagram. [Easy]</li>
 <li>268. Missing Number.  [Easy]</li>
 <li>268. Missing Number Using Single Formula.  [Easy]</li>
+<li>300. Longest Increasing Subsequence. [Medium]</li>
 <li>318. Maximum Product of Word Lengths by Brute Force.  [Midium]</li>
 <li>318. Maximum Product of Word Lengths by Bit Masking.  [Optimized][Midium]</li>
 <li>344. Reverse the String Problem file. [Easy] </li>
