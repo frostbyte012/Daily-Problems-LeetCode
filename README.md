@@ -71,6 +71,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>217. Conatains Duplicate.  [Easy]</li>
 <li>217. Conatains Duplicate Optimized Problem file. [Easy]</li>
 <li>231. Power of Two. [Easy]</li>
+<li>235. Lowest Common Ancestor of a Binary Search Tree. [Easy]</li>
 <li>238. Product of Array Except itself. [Medium]</li>
 <li>242. Valid Anagram. [Easy]</li>
 <li>268. Missing Number.  [Easy]</li>
