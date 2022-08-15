@@ -42,6 +42,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>03. Longest Substring Without Repeating Characters. [Medium]</li>
 <li>07. Reverse Integer [Medium]</li>
 <li>11. Container with most water. [Medium]</li>
+<li>13. Roman to Integer. [Easy]</li>
 <li>14. Longest Common Prefix. [Medium]</li>
 <li>15. 3 Sum [Medium]</li>
 <li>20. Valid Parantheses. [Easy]</li>
