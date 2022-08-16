@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 49</h3>
+<h3>Streak Level 🔥[Pro] : 50</h3>
 
 <hr>
 
@@ -84,6 +84,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>354. Russian Doll Envelopes. [Hard] </li>
 <li>377. Combination Sum IV. [Medium]</li>
 <li>378. Kth Smallest Element In a Sorted Matrix. [Medium] </li>  
+<li>387. First Unique Character in a String. [Easy]</li>
 <li>424. Longest Character Replacement. [Medium]</li>
 <li>458. Poor Pigs. [Hard]</li>
 <li>516. Minimum Window Substring [Hard]</li>
