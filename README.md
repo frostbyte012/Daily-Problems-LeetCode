@@ -91,6 +91,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>560. Sub Array Sum Equals k. [Medium] </li>
 <li>575. Distribute Candies. [Medium] </li>
 <li>647. Palindromic Substrings. [Medium]</li>
+<li>659. Split Array into Consecutive Subsequences. [Easy]</li>
 <li>729. My Calender 1. [Medium]</li>
 <li>730. Count Different Palindromic Subsequences [Hard]</li>
 <li>804. Unique Morse Code Words [Easy].</li>
