@@ -1,3 +1,6 @@
+//reference
+//https://www.youtube.com/watch?v=Gmc-4Dpzw2g 
+
 #include<bits/stdc++.h>
 using namespace std;
 
