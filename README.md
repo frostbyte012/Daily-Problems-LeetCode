@@ -87,6 +87,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>354. Russian Doll Envelopes. [Hard] </li>
 <li>377. Combination Sum IV. [Medium]</li>
 <li>378. Kth Smallest Element In a Sorted Matrix. [Medium] </li>  
+<li>383. Ransom Note. [Easy]</li>
 <li>387. First Unique Character in a String. [Easy]</li>
 <li>424. Longest Character Replacement. [Medium]</li>
 <li>458. Poor Pigs. [Hard]</li>
