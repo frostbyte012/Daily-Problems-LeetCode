@@ -106,6 +106,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>905. Sort Array By Parity. [Easy] </li>
 <li>1009. Complement of Base 10 Integer. [Easy] </li>
 <li>1220. Count Vowels Permutation. [Hard]</li>
+<li>1329. Sort the Matrix Diagonally. [Medium]</li>
 <li>1332. Remove Palindromic Subsequences. [Easy] </li>
 <li>1338. Reduce Array Size to The Half. [Medium] </li>
 <li>1342. Number of Steps to Reduce A Number To Zero. [Easy] </li>
