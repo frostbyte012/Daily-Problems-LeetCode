@@ -52,6 +52,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>33. Search in Rotated Sorted Array [Medium] </li>
 <li>42. Trapping rain water. [Hard]</li>
 <li>44. Wildcard Matching. [Hard]</li>
+<li>48. Rotate Image. [Medium]</li>
 <li>49.Group Anagrams [Medium]</li>
 <li>51. N-Queens. [Hard] </li>
 <li>52. N-Queens-II. [Hard] </li>
