@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 62</h3>
+<h3>Streak Level 🔥[Pro] : 63</h3>
 
 <hr>
 
@@ -46,6 +46,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>14. Longest Common Prefix. [Medium]</li>
 <li>15. 3 Sum [Medium]</li>
 <li>20. Valid Parantheses. [Easy]</li>
+<li>26. Remove Duplicates from Sorted Array. [Easy]</li>
 <li>31. Next Permutation. [Medium]</li>
 <li>32. Longest Valid Parantheses. [Hard]</li>
 <li>32. Longest Valid Parantheses using Stack [Hard] </li>
