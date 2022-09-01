@@ -1,3 +1,4 @@
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -24,20 +25,58 @@ public:
         
 // Optimised approach
 
+        //USING THE HASH MAP:-
 
-        unordered_map<int,int>mp;
+//         unordered_map<int,int>mp;
+//         for(int i=0;i<nums.size();i++)
+//         {
+           
+//            if(mp.find(target-nums[i])!=mp.end())
+//            {
+//                return {mp[target-nums[i]],i};
+//            }
+//             mp[nums[i]]=i;
+//         }
+        
+//         return {};
+        
+        
+//      USING THE TWO POINTERS METHOD:
+        
+
+        
+        
+    
+        vector<pair<int,int>>num;
+        
         for(int i=0;i<nums.size();i++)
         {
-           
-           if(mp.find(target-nums[i])!=mp.end())
-           {
-               return {mp[target-nums[i]],i};
-           }
-            mp[nums[i]]=i;
+            num.push_back(pair<int,int>(nums[i],i));
+        }
+            
+        sort(num.begin(),num.end());
+        
+        int i=0,j=nums.size()-1;
+        
+        while(i<j)
+        {
+            if(num[i].first+num[j].first==target)
+            {
+                return {num[i].second,num[j].second};
+            }
+            
+            else if(num[i].first+num[j].first>target)
+            {
+                j--;
+            }
+            else
+            {
+                i++;
+            }
         }
         
-        return {};
         
-                
+        return {-1,-1};     
     }    
+        
 };
