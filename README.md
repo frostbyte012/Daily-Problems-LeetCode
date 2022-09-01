@@ -99,6 +99,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>659. Split Array into Consecutive Subsequences. [Easy]</li>
 <li>729. My Calender 1. [Medium]</li>
 <li>730. Count Different Palindromic Subsequences [Hard]</li>
+<li>771. Jewels and Stones. [Easy]</li>
 <li>804. Unique Morse Code Words [Easy].</li>
 <li>844. Back Space String Problem. [Easy]</li>
 <li>858. Mirror-Reflection. [Medium]</li>
