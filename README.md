@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 64</h3>
+<h3>Streak Level 🔥[Pro] : 65</h3>
 
 <hr>
 
@@ -108,6 +108,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>858. Mirror-Reflection. [Medium]</li>
 <li>867. Transpose Matrix Problem. [Easy]</li>
 <li>869. Reordered Power of 2. [Medium]</li>
+<li>876. Middle of the Linked List. [Medium]</li>
 <li>905. Sort Array By Parity. [Easy] </li>
 <li>1009. Complement of Base 10 Integer. [Easy] </li>
 <li>1220. Count Vowels Permutation. [Hard]</li>
