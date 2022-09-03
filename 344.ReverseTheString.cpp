@@ -1,22 +1,34 @@
 #include<bits/stdc++.h>
 using namespace std;
-vector <int> reverseTheArray(vector <int> & nums)
-{
-    int i=0;
-    for(i=0;i<nums.size()/2;i++)
-        swap(nums[i],nums[nums.size()-1-i]);
-     return nums;
-}
-int main()
-{
-    vector<int>nums;
-    int i,inp;
-    cout<<"Enter the vector : "<<endl;
-    while(cin>>inp)
-    nums.push_back(inp);
-    nums=reverseTheArray(nums);
-    for(i=0;i<nums.size();i++)
-     i!=nums.size()-1?cout<<nums[i]<<",":cout<<nums[i];
-    cout<<endl;
-    return 1;
-}
+class Solution {
+public:
+    void reverseString(vector<char>& s) {
+        //BRUTE FORCE
+//         int i=0;
+//         for(i=0;i<s.size()/2;i++)
+//         {
+//             swap(s[i],s[s.size()-1-i]);
+//         }
+//         for(i=0;i<s.size()-1;i++)
+//         {
+//             i!=s.size()-1?cout<<s[i]<<",":cout<<s[i]<<endl;
+//         }
+        
+        //USING 2 POINTERS
+        
+        int i=0,j=s.size()-1;
+        while(i<j)
+        {
+            swap(s[i],s[j]);
+            i++;
+            j--;
+        }
+
+        for(int i=0;i<s.size();i++)
+        {
+            i!=s.size()-1?cout<<s[i]<<",":cout<<s[i]<<"\n";
+        }
+        
+        
+    }
+};
