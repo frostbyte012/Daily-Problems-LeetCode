@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 66</h3>
+<h3>Streak Level 🔥[Pro] : 68</h3>
 
 <hr>
 
@@ -59,6 +59,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>52. N-Queens-II. [Hard] </li>
 <li>56. Maximum Subarray. [Medium] </li>
 <li>56. Merge Intervals. [Medium] </li>
+<li>75. Sort Colors. [Medium]</li>
 <li>77. Combinations. [Medium]</li>
 <li>88. MergeSortedArray[O(1)]. [Easy] </li>
 <li>118. Pascal's Triangle. [Easy] </li>
@@ -111,6 +112,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>869. Reordered Power of 2. [Medium]</li>
 <li>876. Middle of the Linked List. [Medium]</li>
 <li>905. Sort Array By Parity. [Easy] </li>
+<li>922. Sort Array By Parity II. [Easy]</li>
 <li>1009. Complement of Base 10 Integer. [Easy] </li>
 <li>1220. Count Vowels Permutation. [Hard]</li>
 <li>1329. Sort the Matrix Diagonally. [Medium]</li>
