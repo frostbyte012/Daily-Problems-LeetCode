@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 69</h3>
+<h3>Streak Level 🔥[Pro] : 70</h3>
 
 <hr>
 
@@ -114,6 +114,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>876. Middle of the Linked List. [Medium]</li>
 <li>905. Sort Array By Parity. [Easy] </li>
 <li>922. Sort Array By Parity II. [Easy]</li>
+<li>967. Numbers With Same Consecutive Differences. [Medium]</li>
 <li>1009. Complement of Base 10 Integer. [Easy] </li>
 <li>1220. Count Vowels Permutation. [Hard]</li>
 <li>1329. Sort the Matrix Diagonally. [Medium]</li>
