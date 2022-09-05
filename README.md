@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 70</h3>
+<h3>Streak Level 🔥[Pro] : 71</h3>
 
 <hr>
 
@@ -47,6 +47,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>15. 3 Sum [Medium]</li>
 <li>20. Valid Parantheses. [Easy]</li>
 <li>21. Merge Two Sorted Lists. [Easy]</li>
+<li>23. Merge k Sorted Lists. [Hard]</li>
 <li>26. Remove Duplicates from Sorted Array. [Easy]</li>
 <li>31. Next Permutation. [Medium]</li>
 <li>32. Longest Valid Parantheses. [Hard]</li>
