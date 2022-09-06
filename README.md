@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 71</h3>
+<h3>Streak Level 🔥[Pro] : 72</h3>
 
 <hr>
 
@@ -38,6 +38,8 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <ul>
 <li>01. Two Sum [Easy].</li>
+<li>2. Add Two Numbers.[Medium]</li>
+<li>2. Add Two Numbers Simplified.[Medium]</li>
 <li>01. Two Sum Optimized[Easy].</li>
 <li>03. Longest Substring Without Repeating Characters. [Medium]</li>
 <li>07. Reverse Integer [Medium]</li>
