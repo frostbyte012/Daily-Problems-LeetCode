@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 75</h3>
+<h3>Streak Level 🔥[Pro] : 76</h3>
 
 <hr>
 
@@ -79,6 +79,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>189. Rotate Array. [Medium]</li>
 <li>191. Number of 1's Bits  [Easy]</li>
 <li>203. Remove Linked List Elements. [Easy]</li>
+<li>206. Reverse Linked List. [Easy]</li>
 <li>215. Kth Largest Element.  [Medium]</li>
 <li>217. Conatains Duplicate.  [Easy]</li>
 <li>217. Conatains Duplicate Optimized Problem file. [Easy]</li>
