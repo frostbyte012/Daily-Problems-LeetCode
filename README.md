@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 76</h3>
+<h3>Streak Level 🔥[Pro] : 78</h3>
 
 <hr>
 
@@ -66,6 +66,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>56. Merge Intervals. [Medium] </li>
 <li>75. Sort Colors. [Medium]</li>
 <li>77. Combinations. [Medium]</li>
+<li>83. Remove Duplicates from Sorted List. [Easy]</li>
 <li>88. MergeSortedArray[O(1)]. [Easy] </li>
 <li>118. Pascal's Triangle. [Easy] </li>
 <li>121. Best Time to Buy and Sell a Stock. [Easy] </li>
