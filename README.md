@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 78</h3>
+<h3>Streak Level 🔥[Pro] : 79</h3>
 
 <hr>
 
@@ -135,6 +135,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1480. Running Sum of 1D Array. [Easy]</li>
 <li>1480. Running Sum of 1D Array [Optimized]. [Easy]</li>
 <li>1695. Maximum Erasure Value . [Medium]</li>
+<li>2007. Find Original Array From Doubled Array. [Medium]</li>
 </ul>
 <br>
 <hr>
