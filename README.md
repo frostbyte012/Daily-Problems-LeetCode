@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 79</h3>
+<h3>Streak Level 🔥[Pro] : 81</h3>
 
 <hr>
 
@@ -107,6 +107,8 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>424. Longest Character Replacement. [Medium]</li>
 <li>458. Poor Pigs. [Hard]</li>
 <li>516. Minimum Window Substring [Hard]</li>
+<li>541. Rerverse String II. [Easy]</li>
+<li>557. Reverse Words in a String III. [Easy]</li>
 <li>560. Sub Array Sum Equals k. [Medium] </li>
 <li>575. Distribute Candies. [Medium] </li>
 <li>647. Palindromic Substrings. [Medium]</li>
