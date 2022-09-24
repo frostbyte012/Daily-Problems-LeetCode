@@ -65,6 +65,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>56. Maximum Subarray. [Medium] </li>
 <li>56. Merge Intervals. [Medium] </li>
 <li>75. Sort Colors. [Medium]</li>
+<li>76. Minimum Window Substring. [Hard]</li>
 <li>77. Combinations. [Medium]</li>
 <li>83. Remove Duplicates from Sorted List. [Easy]</li>
 <li>88. MergeSortedArray[O(1)]. [Easy] </li>
