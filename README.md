@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 84</h3>
+<h3>Streak Level 🔥[Pro] : 85</h3>
 
 <hr>
 
@@ -113,6 +113,8 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>557. Reverse Words in a String III. [Easy]</li>
 <li>560. Sub Array Sum Equals k. [Medium] </li>
 <li>575. Distribute Candies. [Medium] </li>
+<li>622. Design Circular Queue. [Medium]</li>
+<li>643. Maximum Average Subarray I [Easy]</li>
 <li>647. Palindromic Substrings. [Medium]</li>
 <li>659. Split Array into Consecutive Subsequences. [Easy]</li>
 <li>729. My Calender 1. [Medium]</li>
