@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 86</h3>
+<h3>Streak Level 🔥[Pro] : 87</h3>
 
 <hr>
 
@@ -116,6 +116,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>622. Design Circular Queue. [Medium]</li>
 <li>643. Maximum Average Subarray I [Easy]</li>
 <li>647. Palindromic Substrings. [Medium]</li>
+<li>658. Find K Closest Elements. [Medium]</li>
 <li>659. Split Array into Consecutive Subsequences. [Easy]</li>
 <li>729. My Calender 1. [Medium]</li>
 <li>730. Count Different Palindromic Subsequences [Hard]</li>
