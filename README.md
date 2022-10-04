@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 90</h3>
+<h3>Streak Level 🔥[Pro] : 91</h3>
 
 <hr>
 
@@ -70,6 +70,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>83. Remove Duplicates from Sorted List. [Easy]</li>
 <li>88. MergeSortedArray[O(1)]. [Easy] </li>
 <li>91. Decode Ways. [Medium]</li>
+<li>112. Path Sum. [Easy]</li>
 <li>113. Path Sum II. [Medium]</li>
 <li>118. Pascal's Triangle. [Easy] </li>
 <li>121. Best Time to Buy and Sell a Stock. [Easy] </li>
