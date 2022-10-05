@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 91</h3>
+<h3>Streak Level 🔥[Pro] : 92</h3>
 
 <hr>
 
@@ -116,6 +116,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>560. Sub Array Sum Equals k. [Medium] </li>
 <li>575. Distribute Candies. [Medium] </li>
 <li>622. Design Circular Queue. [Medium]</li>
+<li>623. Add One Row to Tree. [Medium]</li>
 <li>643. Maximum Average Subarray I [Easy]</li>
 <li>647. Palindromic Substrings. [Medium]</li>
 <li>658. Find K Closest Elements. [Medium]</li>
