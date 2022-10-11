@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 97</h3>
+<h3>Streak Level 🔥[Pro] : 98</h3>
 
 <hr>
 
@@ -101,6 +101,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>318. Maximum Product of Word Lengths by Brute Force.  [Midium]</li>
 <li>318. Maximum Product of Word Lengths by Bit Masking.  [Optimized][Midium]</li>
 <li>326. Power of Three. [Easy]</li>
+<li>334. Increasing Triplet Subsequence. [Medium]</li>
 <li>342. Power of Four. [Easy]</li>
 <li>344. Reverse the String Problem file. [Easy] </li>
 <li>354. Russian Doll Envelopes. [Hard] </li>
