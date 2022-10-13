@@ -93,6 +93,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>234. Palindrome Linked List. [Easy]</li>
 <li>235. Lowest Common Ancestor of a Binary Search Tree. [Easy]</li>
 <li>237. Delete Node in a Linked List. [Medium]</li>
+<li>237. Delete Node in a Linked List. [Easy]</li>
 <li>238. Product of Array Except itself. [Medium]</li>
 <li>242. Valid Anagram. [Easy]</li>
 <li>268. Missing Number.  [Easy]</li>
