@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 99</h3>
+<h3>Streak Level 🔥[Pro] : 100</h3>
 
 <hr>
 
@@ -158,6 +158,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1680. Concatenation of Consecutive Binary Numbers. [Medium]</li>
 <li>1695. Maximum Erasure Value . [Medium]</li>
 <li>2007. Find Original Array From Doubled Array. [Medium]</li>
+<li>2095. Delete the Middle Node of a Linked List. [Medium]</li>
 </ul>
 <br>
 <hr>
