@@ -4,29 +4,28 @@ using namespace std;
 class Solution {
 public:
     bool containsNearbyDuplicate(vector<int>& nums, int k) {
-        
-        int start=0,n=nums.size();
+
         
         unordered_map<int,int>mp;
     
-        while(start<n)
+        int start=0,end=nums.size();
+        
+        while(start<end)
         {
-            
-            
             if(mp.find(nums[start])!=mp.end())
             {
-                int diff=abs(start-mp[nums[start]]);
-                if(diff<=k)
+                if(abs(start-mp[nums[start]])<=k)
+                {
                     return true;
+                }
             }
-            
+                
+                
             mp[nums[start]]=start;
-            
-            start++;
-            
-            
+        
+            start++;     
         }
-
+        
         
         return false;
         
