@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 104</h3>
+<h3>Streak Level 🔥[Pro] : 105</h3>
 
 <hr>
 
@@ -123,7 +123,8 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>575. Distribute Candies. [Medium] </li>
 <li>622. Design Circular Queue. [Medium]</li>
 <li>623. Add One Row to Tree. [Medium]</li>
-<li>643. Maximum Average Subarray I [Easy]</li>
+<li>643. Maximum Average Subarray I. [Easy]</li>
+<li>645. Set Mismatch. [Easy]</li>
 <li>647. Palindromic Substrings. [Medium]</li>
 <li>653. Two Sum IV - Input is a BST. [Medium]</li>
 <li>658. Find K Closest Elements. [Medium]</li>
