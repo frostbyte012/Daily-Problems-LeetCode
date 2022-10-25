@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 105</h3>
+<h3>Streak Level 🔥[Pro] : 106</h3>
 
 <hr>
 
@@ -160,6 +160,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1480. Running Sum of 1D Array [Optimized]. [Easy]</li>
 <li>1531. String Compression II. [Hard]</li>
 <li>1578. Minimum Time to Make Rope Colorful. [Medium]</li>
+<li>1662. Check If Two String Arrays are Equivalent. [Medium]</li>
 <li>1680. Concatenation of Consecutive Binary Numbers. [Medium]</li>
 <li>1695. Maximum Erasure Value . [Medium]</li>
 <li>1832. Check if the Sentence Is Pangram. [Easy]</li>
