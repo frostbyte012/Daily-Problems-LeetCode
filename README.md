@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 110</h3>
+<h3>Streak Level 🔥[Pro] : 111</h3>
 
 <hr>
 
@@ -68,6 +68,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>56. Maximum Subarray. [Medium] </li>
 <li>56. Merge Intervals. [Medium] </li>
 <li>66. Plus One.[Easy]</li>
+<li>69. Sqrt(x) [Easy].</li>
 <li>75. Sort Colors. [Medium]</li>
 <li>76. Minimum Window Substring. [Hard]</li>
 <li>77. Combinations. [Medium]</li>
