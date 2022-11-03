@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 114</h3>
+<h3>Streak Level 🔥[Pro] : 115</h3>
 
 <hr>
 
@@ -90,6 +90,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>179. Largest Number. [Medium] </li>
 <li>189. Rotate Array. [Medium]</li>
 <li>191. Number of 1's Bits  [Easy]</li>
+<li>202. Happy Number.[Easy]</li>
 <li>203. Remove Linked List Elements. [Easy]</li>
 <li>205. Isomorphic Strings.[Easy]</li>
 <li>206. Reverse Linked List. [Easy]</li>
