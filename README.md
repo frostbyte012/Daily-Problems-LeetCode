@@ -80,6 +80,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>113. Path Sum II. [Medium]</li>
 <li>118. Pascal's Triangle. [Easy] </li>
 <li>121. Best Time to Buy and Sell a Stock. [Easy] </li>
+<li>136. Single Number. [Easy]</li>
 <li>141. Linked List Cycle. [Easy]</li>
 <li>152. Maximum Product Subarray. [Medium] </li>
 <li>153. Minimum of Rotated and Sorted Array. [Medium] </li>
