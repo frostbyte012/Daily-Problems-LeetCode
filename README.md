@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 120</h3>
+<h3>Streak Level 🔥[Pro] : 121</h3>
 
 <hr>
 
@@ -124,6 +124,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>383. Ransom Note. [Easy]</li>
 <li>387. First Unique Character in a String. [Easy]</li>
 <li>392. Is Subsequence. [Easy]</li>
+<li>414. Third Maximum Number.[Easy]</li>
 <li>424. Longest Character Replacement. [Medium]</li>
 <li>438. Find All Anagrams in a String. [Medium]</li>
 <li>458. Poor Pigs. [Hard]</li>
