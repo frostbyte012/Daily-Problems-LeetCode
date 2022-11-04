@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 118</h3>
+<h3>Streak Level 🔥[Pro] : 119</h3>
 
 <hr>
 
@@ -117,6 +117,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>344. Reverse the String Problem file. [Easy] </li>
 <li>345. Reverse Vowels of a String. [Easy]</li>
 <li>354. Russian Doll Envelopes. [Hard] </li>
+<li>367. Valid Perfect Square. [Easy]</li>
 <li>377. Combination Sum IV. [Medium]</li>
 <li>378. Kth Smallest Element In a Sorted Matrix. [Medium] </li>  
 <li>383. Ransom Note. [Easy]</li>
