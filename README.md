@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 115</h3>
+<h3>Streak Level 🔥[Pro] : 116</h3>
 
 <hr>
 
@@ -113,6 +113,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>334. Increasing Triplet Subsequence. [Medium]</li>
 <li>342. Power of Four. [Easy]</li>
 <li>344. Reverse the String Problem file. [Easy] </li>
+<li>345. Reverse Vowels of a String. [Easy]</li>
 <li>354. Russian Doll Envelopes. [Hard] </li>
 <li>377. Combination Sum IV. [Medium]</li>
 <li>378. Kth Smallest Element In a Sorted Matrix. [Medium] </li>  
