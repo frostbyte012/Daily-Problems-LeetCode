@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 119</h3>
+<h3>Streak Level 🔥[Pro] : 120</h3>
 
 <hr>
 
@@ -106,6 +106,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>238. Product of Array Except itself. [Medium]</li>
 <li>242. Valid Anagram. [Easy]</li>
 <li>258. Add Digits. [Easy]</li>
+<li>263. Ugly Number. [Easy]</li>
 <li>268. Missing Number.  [Easy]</li>
 <li>268. Missing Number Using Single Formula.  [Easy]</li>
 <li>300. Longest Increasing Subsequence. [Medium]</li>
