@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 117</h3>
+<h3>Streak Level 🔥[Pro] : 118</h3>
 
 <hr>
 
@@ -87,6 +87,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>153. Minimum of Rotated and Sorted Array Optimized. [Medium] </li>
 <li>160. Intersewction of Two Linked List. [Easy] </li>
 <li>167. Two Sum II Input Array Is Sorted. [Medium] </li>
+<li>169. Majority Element. [Easy]</li>
 <li>179. Largest Number. [Medium] </li>
 <li>189. Rotate Array. [Medium]</li>
 <li>191. Number of 1's Bits  [Easy]</li>
