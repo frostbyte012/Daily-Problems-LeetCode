@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 121</h3>
+<h3>Streak Level 🔥[Pro] : 122</h3>
 
 <hr>
 
@@ -161,6 +161,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1009. Complement of Base 10 Integer. [Easy] </li>
 <li>1155. Number of Dice Rolls With Target Sum. [Medium]</li>
 <li>1220. Count Vowels Permutation. [Hard]</li>
+<li>1323. Maximum 69 Number. [Easy]</li>
 <li>1328. Break a Palindrome. [Medium]</li>
 <li>1329. Sort the Matrix Diagonally. [Medium]</li>
 <li>1332. Remove Palindromic Subsequences. [Easy] </li>
