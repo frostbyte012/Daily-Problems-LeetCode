@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 123</h3>
+<h3>Streak Level 🔥[Pro] : 124</h3>
 
 <hr>
 
@@ -159,6 +159,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>976. Largest Perimeter Triangle. [Easy]<li>
 <li>981. Time Based Key-Value Store. [Medium]</li>
 <li>1009. Complement of Base 10 Integer. [Easy] </li>
+<li>1047. Remove All Adjacent Duplicates In String. [Easy]</li>
 <li>1155. Number of Dice Rolls With Target Sum. [Medium]</li>
 <li>1220. Count Vowels Permutation. [Hard]</li>
 <li>1323. Maximum 69 Number. [Easy]</li>
