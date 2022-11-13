@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 124</h3>
+<h3>Streak Level 🔥[Pro] : 125</h3>
 
 <hr>
 
@@ -82,6 +82,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>121. Best Time to Buy and Sell a Stock. [Easy] </li>
 <li>136. Single Number. [Easy]</li>
 <li>141. Linked List Cycle. [Easy]</li>
+<li>151. Reverse Words in a String.[Easy]<li>
 <li>152. Maximum Product Subarray. [Medium] </li>
 <li>153. Minimum of Rotated and Sorted Array. [Medium] </li>
 <li>153. Minimum of Rotated and Sorted Array Optimized. [Medium] </li>
