@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 125</h3>
+<h3>Streak Level 🔥[Pro] : 126</h3>
 
 <hr>
 
@@ -99,6 +99,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>215. Kth Largest Element.  [Medium]</li>
 <li>217. Conatains Duplicate.  [Easy]</li>
 <li>217. Conatains Duplicate Optimized Problem file. [Easy]</li>
+<li>222. Count Complete Tree Nodes. [Easy]</li>
 <li>231. Power of Two. [Easy]</li>
 <li>234. Palindrome Linked List. [Easy]</li>
 <li>235. Lowest Common Ancestor of a Binary Search Tree. [Easy]</li>
