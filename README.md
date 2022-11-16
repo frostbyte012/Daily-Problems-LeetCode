@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 126</h3>
+<h3>Streak Level 🔥[Pro] : 127</h3>
 
 <hr>
 
@@ -45,7 +45,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>07. Reverse Integer [Medium]</li>
 <li>11. Container with most water. [Medium]</li>
 <li>12. Integer to Roman. [Medium]</li>
-<li>13. Roman to Integer. [Easy]</li>
+<li>13. Roman to Integer. [Easy]</li>      
 <li>14. Longest Common Prefix. [Medium]</li>
 <li>15. 3 Sum [Medium]</li>
 <li>16. 3Sum Closest. [Medium]</li>
@@ -121,6 +121,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>345. Reverse Vowels of a String. [Easy]</li>
 <li>354. Russian Doll Envelopes. [Hard] </li>
 <li>367. Valid Perfect Square. [Easy]</li>
+<li>374. Guess Number Higher or Lower. [Easy]</li>
 <li>377. Combination Sum IV. [Medium]</li>
 <li>378. Kth Smallest Element In a Sorted Matrix. [Medium] </li>  
 <li>383. Ransom Note. [Easy]</li>
