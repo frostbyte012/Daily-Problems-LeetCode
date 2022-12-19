@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 132</h3>
+<h3>Streak Level 🔥[Pro] : 133</h3>
 
 <hr>
 
@@ -189,6 +189,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1695. Maximum Erasure Value . [Medium]</li>
 <li>1706. Where Will the Ball Fall. [Medium]</li>
 <li>1832. Check if the Sentence Is Pangram. [Easy]</li>
+<li>1971. Find if Path Exists in Graph. [Easy]</li>
 <li>2007. Find Original Array From Doubled Array. [Medium]</li>
 <li>2095. Delete the Middle Node of a Linked List. [Medium]</li>
 <li>2131. Longest Palindrome by Concatenating Two Letter Words. [Medium]</li>
