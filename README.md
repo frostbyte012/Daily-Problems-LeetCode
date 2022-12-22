@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 135</h3>
+<h3>Streak Level 🔥[Pro] : 136</h3>
 
 <hr>
 
@@ -156,6 +156,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>763. Partition Labels. [Medium]</li>
 <li>771. Jewels and Stones. [Easy]</li>
 <li>804. Unique Morse Code Words [Easy].</li>
+<li>834. Sum of Distances in Tree. [Hard]</li>
 <li>838. Push Dominoes. [Medium]</li>
 <li>841. Keys and Rooms. [Medium]</li>
 <li>844. Back Space String Problem. [Easy]</li>
