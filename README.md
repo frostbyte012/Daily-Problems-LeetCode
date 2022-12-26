@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 137</h3>
+<h3>Streak Level 🔥[Pro] : 139</h3>
 
 <hr>
 
@@ -65,6 +65,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>49.Group Anagrams [Medium]</li>
 <li>51. N-Queens. [Hard] </li>
 <li>52. N-Queens-II. [Hard] </li>
+<li>55. Jump Game. [Medium]</li>
 <li>56. Maximum Subarray. [Medium] </li>
 <li>56. Merge Intervals. [Medium] </li>
 <li>66. Plus One.[Easy]</li>
@@ -198,6 +199,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>2095. Delete the Middle Node of a Linked List. [Medium]</li>
 <li>2131. Longest Palindrome by Concatenating Two Letter Words. [Medium]</li>
 <li>2256. Minimum Average Difference. [Medium]</li>
+<li>2389. Longest Subsequence With Limited Sum. [Easy]</li>
 </ul>
 <br>
 <hr>
