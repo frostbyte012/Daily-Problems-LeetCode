@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 139</h3>
+<h3>Streak Level 🔥[Pro] : 142</h3>
 
 <hr>
 
@@ -157,6 +157,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>739. Daily Temperatures. [Medium]</li>
 <li>763. Partition Labels. [Medium]</li>
 <li>771. Jewels and Stones. [Easy]</li>
+<li>797. All Paths From Source to Target. [Medium]</li>
 <li>804. Unique Morse Code Words [Easy].</li>
 <li>834. Sum of Distances in Tree. [Hard]</li>
 <li>838. Push Dominoes. [Medium]</li>
@@ -170,6 +171,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>905. Sort Array By Parity. [Easy] </li>
 <li>922. Sort Array By Parity II. [Easy]</li>
 <li>967. Numbers With Same Consecutive Differences. [Medium]</li>
+<li>980. Unique Paths III. [Hard]</li>
 <li>976. Largest Perimeter Triangle. [Easy]<li>
 <li>981. Time Based Key-Value Store. [Medium]</li>
 <li>1009. Complement of Base 10 Integer. [Easy] </li>
@@ -194,6 +196,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1695. Maximum Erasure Value . [Medium]</li>
 <li>1706. Where Will the Ball Fall. [Medium]</li>
 <li>1832. Check if the Sentence Is Pangram. [Easy]</li>
+<li>1834. Single-Threaded CPU. [Medium]</li>
 <li>1971. Find if Path Exists in Graph. [Easy]</li>
 <li>2007. Find Original Array From Doubled Array. [Medium]</li>
 <li>2095. Delete the Middle Node of a Linked List. [Medium]</li>
