@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 142</h3>
+<h3>Streak Level 🔥[Pro] : 143</h3>
 
 <hr>
 
@@ -117,6 +117,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>268. Missing Number.  [Easy]</li>
 <li>268. Missing Number Using Single Formula.  [Easy]</li>
 <li>279. Perfect Squares. [Medium]</li>
+<li>290. Word Pattern. [Easy]</li>
 <li>300. Longest Increasing Subsequence. [Medium]</li>
 <li>318. Maximum Product of Word Lengths by Brute Force.  [Midium]</li>
 <li>318. Maximum Product of Word Lengths by Bit Masking.  [Optimized][Midium]</li>
