@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 143</h3>
+<h3>Streak Level 🔥[Pro] : 144</h3>
 
 <hr>
 
@@ -139,6 +139,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>438. Find All Anagrams in a String. [Medium]</li>
 <li>458. Poor Pigs. [Hard]</li>
 <li>516. Minimum Window Substring [Hard]</li>
+<li>520. Detect Capital. [Easy]</li>
 <li>541. Rerverse String II. [Easy]</li>
 <li>557. Reverse Words in a String III. [Easy]</li>
 <li>560. Sub Array Sum Equals k. [Medium] </li>
