@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 146</h3>
+<h3>Streak Level 🔥[Pro] : 147</h3>
 
 <hr>
 
@@ -199,6 +199,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1695. Maximum Erasure Value . [Medium]</li>
 <li>1706. Where Will the Ball Fall. [Medium]</li>
 <li>1832. Check if the Sentence Is Pangram. [Easy]</li>
+<li>1833. Maximum Ice Cream Bars. [Medium]</li>
 <li>1834. Single-Threaded CPU. [Medium]</li>
 <li>1971. Find if Path Exists in Graph. [Easy]</li>
 <li>2007. Find Original Array From Doubled Array. [Medium]</li>
