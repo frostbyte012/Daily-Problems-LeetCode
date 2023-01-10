@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 147</h3>
+<h3>Streak Level 🔥[Pro] : 149</h3>
 
 <hr>
 
@@ -77,12 +77,14 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>83. Remove Duplicates from Sorted List. [Easy]</li>
 <li>88. MergeSortedArray[O(1)]. [Easy] </li>
 <li>91. Decode Ways. [Medium]</li>
+<li>100. Same Tree. [Easy]</li>
 <li>112. Path Sum. [Easy]</li>
 <li>113. Path Sum II. [Medium]</li>
 <li>118. Pascal's Triangle. [Easy] </li>
 <li>121. Best Time to Buy and Sell a Stock. [Easy] </li>
 <li>136. Single Number. [Easy]</li>
 <li>141. Linked List Cycle. [Easy]</li>
+<li>144. Binary Tree Preorder Traversal. [Easy]</li>
 <li>150. Evaluate Reverse Polish Notation. [Medium]</li>
 <li>151. Reverse Words in a String.[Easy]<li>
 <li>152. Maximum Product Subarray. [Medium] </li>
