@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 149</h3>
+<h3>Streak Level 🔥[Pro] : 150</h3>
 
 <hr>
 
@@ -190,6 +190,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1338. Reduce Array Size to The Half. [Medium] </li>
 <li>1342. Number of Steps to Reduce A Number To Zero. [Easy] </li>
 <li>1365. How Many Numbers Are Smaller Than the Current Number. [Easy]</li>
+<li>1443. Minimum Time to Collect All Apples in a Tree/ [Medium]</li>
 <li>1461. Check If a String Contains All Binary Codes of Size K. [Medium]</li>
 <li>1480. Running Sum of 1D Array. [Easy]</li>
 <li>1480. Running Sum of 1D Array [Optimized]. [Easy]</li>
