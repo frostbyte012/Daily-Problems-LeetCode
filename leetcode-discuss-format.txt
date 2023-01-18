@@ -1,0 +1,15 @@
+Here is the full line by line explaination for the approach used.
+
+Intuituion : 
+       1. Find the normal max sum of the linear subarrray using Kadanes Algorithm.
+       2. Use the logic of subracting the min subarray sum from the entire total sum.
+       3. Then adding the total sum - min subarray sum 
+       4. Return the max of the linear vs non linear sum 
+
+Complexity :
+   
+      Time : O(N)
+      Space : O(N)
+	  
+Please Upvote if it helped you. Feel free to comment you doubts and reach out.
+Peace+Love 💓💖💝
