@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 151</h3>
+<h3>Streak Level 🔥[Pro] : 152</h3>
 
 <hr>
 
@@ -145,6 +145,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>520. Detect Capital. [Easy]</li>
 <li>541. Rerverse String II. [Easy]</li>
 <li>557. Reverse Words in a String III. [Easy]</li>
+<li>567. Permutation in String. [Medium]</li>
 <li>560. Sub Array Sum Equals k. [Medium] </li>
 <li>575. Distribute Candies. [Medium] </li>
 <li>622. Design Circular Queue. [Medium]</li>
