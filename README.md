@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 152</h3>
+<h3>Streak Level 🔥[Pro] : 153</h3>
 
 <hr>
 
@@ -61,6 +61,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>38. Count and Say. [Medium]</li>
 <li>42. Trapping rain water. [Hard]</li>
 <li>44. Wildcard Matching. [Hard]</li>
+<li>45. Jump Game II. [Medium]</li>
 <li>48. Rotate Image. [Medium]</li>
 <li>49.Group Anagrams [Medium]</li>
 <li>51. N-Queens. [Hard] </li>
