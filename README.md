@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 153</h3>
+<h3>Streak Level 🔥[Pro] : 154</h3>
 
 <hr>
 
@@ -197,6 +197,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1461. Check If a String Contains All Binary Codes of Size K. [Medium]</li>
 <li>1480. Running Sum of 1D Array. [Easy]</li>
 <li>1480. Running Sum of 1D Array [Optimized]. [Easy]</li>
+<li>1523. Count Odd Numbers in an Interval Range. [Easy]</li>
 <li>1531. String Compression II. [Hard]</li>
 <li>1544. Make The String Great. [Easy]</li>
 <li>1578. Minimum Time to Make Rope Colorful. [Medium]</li>
