@@ -1,0 +1,5 @@
+I tried to provide the most intuitive solution and making the fastest solution on this platform for this problem. There goes the line by line explainaton for it. Please UPVOTE if you find this solution helpful, that motivates me to work harder and carry on and bring more intuitive solutions. Peace and Love 💖💖💖
+
+COMPLEXITY
+         * Time :  O(n)
+         * Space : O(1)
