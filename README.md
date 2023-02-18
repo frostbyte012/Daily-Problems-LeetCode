@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 157</h3>
+<h3>Streak Level 🔥[Pro] : 161</h3>
 
 <hr>
 
@@ -79,6 +79,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>83. Remove Duplicates from Sorted List. [Easy]</li>
 <li>88. MergeSortedArray[O(1)]. [Easy] </li>
 <li>91. Decode Ways. [Medium]</li>
+<li>94. Binary Tree Inorder Traversal. [Easy]</li>
 <li>100. Same Tree. [Easy]</li>
 <li>104. Maximum Depth of Binary Tree. [Easy]</li>
 <li>112. Path Sum. [Easy]</li>
@@ -109,6 +110,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>217. Conatains Duplicate Optimized Problem file. [Easy]</li>
 <li>222. Count Complete Tree Nodes. [Easy]</li>
 <li>224. Basic Calculator. [Hard]</li>
+<li>226. Invert Binary Tree. [Easy]</li>
 <li>231. Power of Two. [Easy]</li>
 <li>232. Implement Queue using Stacks. [Easy]</li>
 <li>234. Palindrome Linked List. [Easy]</li>
@@ -146,6 +148,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>458. Poor Pigs. [Hard]</li>
 <li>516. Minimum Window Substring [Hard]</li>
 <li>520. Detect Capital. [Easy]</li>
+<li>530. Minimum Absolute Difference in BST. [Easy]</li>
 <li>541. Rerverse String II. [Easy]</li>
 <li>557. Reverse Words in a String III. [Easy]</li>
 <li>567. Permutation in String. [Medium]</li>
@@ -166,6 +169,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>739. Daily Temperatures. [Medium]</li>
 <li>763. Partition Labels. [Medium]</li>
 <li>771. Jewels and Stones. [Easy]</li>
+<li>783. Minimum Distance Between BST Nodes. [Easy]</li>
 <li>797. All Paths From Source to Target. [Medium]</li>
 <li>804. Unique Morse Code Words [Easy].</li>
 <li>834. Sum of Distances in Tree. [Hard]</li>
