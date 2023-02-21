@@ -2,7 +2,7 @@
 <h1>DAILY PRACTISE PROBLEMS FROM LEETCODE</h1>
 <p>This repo will have the solution of all major leetcode problems and codes in details in order to help solve the codes, open for the opensource learning community. This will help the community to learn and grow together.</p><br><p>All codes are written in C++. I welcome coders to contribute the codes in Python/Java/Other major language as well, if u find it helpful kindly star it and fork and contribute to it.</p><br>
 
-<hr>
+<hr>ss
 
 <h3>Lets Pro Code 🔥 Te Amo's </h3>
 
@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 163</h3>
+<h3>Streak Level 🔥[Pro] : 165</h3>
 
 <hr>
 
@@ -125,6 +125,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>263. Ugly Number. [Easy]</li>
 <li>268. Missing Number.  [Easy]</li>
 <li>268. Missing Number Using Single Formula.  [Easy]</li>
+<li>278. First Bad Version. [Medium]</li>
 <li>279. Perfect Squares. [Medium]</li>
 <li>290. Word Pattern. [Easy]</li>
 <li>300. Longest Increasing Subsequence. [Medium]</li>
@@ -151,6 +152,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>516. Minimum Window Substring [Hard]</li>
 <li>520. Detect Capital. [Easy]</li>
 <li>530. Minimum Absolute Difference in BST. [Easy]</li>
+<li>540. Single Element in a Sorted Array. [Mediums]</li>
 <li>541. Rerverse String II. [Easy]</li>
 <li>557. Reverse Words in a String III. [Easy]</li>
 <li>567. Permutation in String. [Medium]</li>
