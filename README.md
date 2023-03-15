@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 167</h3>
+<h3>Streak Level 🔥[Pro] : 168</h3>
 
 <hr>
 
@@ -189,6 +189,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>905. Sort Array By Parity. [Easy] </li>
 <li>918. Maximum Sum Circular Subarray. [Medium]</li>
 <li>922. Sort Array By Parity II. [Easy]</li>
+<li>958. Check Completeness of a Binary Tree. [Medium]</li>
 <li>967. Numbers With Same Consecutive Differences. [Medium]</li>
 <li>980. Unique Paths III. [Hard]</li>
 <li>976. Largest Perimeter Triangle. [Easy]<li>
