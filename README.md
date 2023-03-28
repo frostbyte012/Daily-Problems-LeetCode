@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 169</h3>
+<h3>Streak Level 🔥[Pro] : 171</h3>
 
 <hr>
 
@@ -92,6 +92,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>129. Sum Root to Leaf Numbers. [Medium]</li>
 <li>136. Single Number. [Easy]</li>
 <li>141. Linked List Cycle. [Easy]</li>
+<li>142. Linked List Cycle II. [Medium]</li>
 <li>144. Binary Tree Preorder Traversal. [Easy]</li>
 <li>150. Evaluate Reverse Polish Notation. [Medium]</li>
 <li>151. Reverse Words in a String.[Easy]<li>
@@ -160,6 +161,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>567. Permutation in String. [Medium]</li>
 <li>560. Sub Array Sum Equals k. [Medium] </li>
 <li>575. Distribute Candies. [Medium] </li>
+<li>605. Can Place Flowers. [Easy]</li>
 <li>622. Design Circular Queue. [Medium]</li>
 <li>623. Add One Row to Tree. [Medium]</li>
 <li>643. Maximum Average Subarray I. [Easy]</li>
