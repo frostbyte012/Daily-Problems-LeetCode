@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 176</h3>
+<h3>Streak Level 🔥[Pro] : 178</h3>
 
 <hr>
 
@@ -170,6 +170,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>653. Two Sum IV - Input is a BST. [Medium]</li>
 <li>658. Find K Closest Elements. [Medium]</li>
 <li>659. Split Array into Consecutive Subsequences. [Easy]</li>
+<li>662. Maximum Width of Binary Tree.[Medium] </li>
 <li>704. Binary Search. [Easy]</li>
 <li>790. Domino and Tromino Tiling. [Medium]</li>
 <li>729. My Calender 1. [Medium]</li>
@@ -225,6 +226,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1680. Concatenation of Consecutive Binary Numbers. [Medium]</li>
 <li>1695. Maximum Erasure Value . [Medium]</li>
 <li>1706. Where Will the Ball Fall. [Medium]</li>
+<li>1768. Merge Strings Alternately. [Easy]</li>
 <li>1832. Check if the Sentence Is Pangram. [Easy]</li>
 <li>1833. Maximum Ice Cream Bars. [Medium]</li>
 <li>1834. Single-Threaded CPU. [Medium]</li>
