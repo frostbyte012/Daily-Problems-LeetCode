@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 178</h3>
+<h3>Streak Level 🔥[Pro] : 180</h3>
 
 <hr>
 
@@ -218,6 +218,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1461. Check If a String Contains All Binary Codes of Size K. [Medium]</li>
 <li>1480. Running Sum of 1D Array. [Easy]</li>
 <li>1480. Running Sum of 1D Array [Optimized]. [Easy]</li>
+<li>1491. Average Salary Excluding the Minimum and Maximum Salary. [Easy]</li>
 <li>1523. Count Odd Numbers in an Interval Range. [Easy]</li>
 <li>1531. String Compression II. [Hard]</li>
 <li>1544. Make The String Great. [Easy]</li>
@@ -227,6 +228,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1695. Maximum Erasure Value . [Medium]</li>
 <li>1706. Where Will the Ball Fall. [Medium]</li>
 <li>1768. Merge Strings Alternately. [Easy]</li>
+<li>1822. Sign of the Product of an Array. [Easy]</li>
 <li>1832. Check if the Sentence Is Pangram. [Easy]</li>
 <li>1833. Maximum Ice Cream Bars. [Medium]</li>
 <li>1834. Single-Threaded CPU. [Medium]</li>
