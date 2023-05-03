@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 180</h3>
+<h3>Streak Level 🔥[Pro] : 181</h3>
 
 <hr>
 
@@ -236,6 +236,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>2007. Find Original Array From Doubled Array. [Medium]</li>
 <li>2095. Delete the Middle Node of a Linked List. [Medium]</li>
 <li>2131. Longest Palindrome by Concatenating Two Letter Words. [Medium]</li>
+<li>2215. Find the Difference of Two Arrays. [Easy]</li>
 <li>2244. Minimum Rounds to Complete All Tasks. [Medium]</li>
 <li>2256. Minimum Average Difference. [Medium]</li>
 <li>2389. Longest Subsequence With Limited Sum. [Easy]</li>
