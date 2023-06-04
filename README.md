@@ -155,8 +155,9 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>516. Minimum Window Substring [Hard]</li>
 <li>520. Detect Capital. [Easy]</li>
 <li>530. Minimum Absolute Difference in BST. [Easy]</li>
-<li>540. Single Element in a Sorted Array. [Mediums]</li>
+<li>540. Single Element in a Sorted Array. [Medium]</li>
 <li>541. Rerverse String II. [Easy]</li>
+<li>547. Number of Provinces. [Medium]</li>
 <li>557. Reverse Words in a String III. [Easy]</li>
 <li>567. Permutation in String. [Medium]</li>
 <li>560. Sub Array Sum Equals k. [Medium] </li>
