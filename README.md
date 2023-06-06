@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 183</h3>
+<h3>Streak Level 🔥[Pro] : 184</h3>
 
 <hr>
 
@@ -221,6 +221,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1480. Running Sum of 1D Array. [Easy]</li>
 <li>1480. Running Sum of 1D Array [Optimized]. [Easy]</li>
 <li>1491. Average Salary Excluding the Minimum and Maximum Salary. [Easy]</li>
+<li>1502. Can Make Arithmetic Progression From Sequence. [Easy]</li>
 <li>1523. Count Odd Numbers in an Interval Range. [Easy]</li>
 <li>1531. String Compression II. [Hard]</li>
 <li>1544. Make The String Great. [Easy]</li>
