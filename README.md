@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 184</h3>
+<h3>Streak Level 🔥[Pro] : 185</h3>
 
 <hr>
 
@@ -208,6 +208,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1155. Number of Dice Rolls With Target Sum. [Medium]</li>
 <li>1220. Count Vowels Permutation. [Hard]</li>
 <li>1232. Check If It Is a Straight Line. [Easy]</li>
+<li>1318. Minimum Flips to Make a OR b Equal to c. [Medium]</li>
 <li>1323. Maximum 69 Number. [Easy]</li>
 <li>1328. Break a Palindrome. [Medium]</li>
 <li>1329. Sort the Matrix Diagonally. [Medium]</li>
