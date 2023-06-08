@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 185</h3>
+<h3>Streak Level 🔥[Pro] : 186</h3>
 
 <hr>
 
@@ -215,6 +215,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1332. Remove Palindromic Subsequences. [Easy] </li>
 <li>1338. Reduce Array Size to The Half. [Medium] </li>
 <li>1342. Number of Steps to Reduce A Number To Zero. [Easy] </li>
+<li>1351. Count Negative Numbers in a Sorted Matrix. [Easy]</li>
 <li>1365. How Many Numbers Are Smaller Than the Current Number. [Easy]</li>
 <li>1431. Kids With the Greatest Number of Candies. [Easy]</li>
 <li>1443. Minimum Time to Collect All Apples in a Tree/ [Medium]</li>
