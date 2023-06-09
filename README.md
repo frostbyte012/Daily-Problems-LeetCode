@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 186</h3>
+<h3>Streak Level 🔥[Pro] : 187</h3>
 
 <hr>
 
@@ -178,6 +178,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>730. Count Different Palindromic Subsequences [Hard]</li>
 <li>732. My Calendar III [Hard]</li>
 <li>739. Daily Temperatures. [Medium]</li>
+<li>744. Find Smallest Letter Greater Than Target. [Easy]</li>
 <li>763. Partition Labels. [Medium]</li>
 <li>771. Jewels and Stones. [Easy]</li>
 <li>783. Minimum Distance Between BST Nodes. [Easy]</li>
