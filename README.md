@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 187</h3>
+<h3>Streak Level 🔥[Pro] : 188</h3>
 
 <hr>
 
@@ -116,6 +116,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>222. Count Complete Tree Nodes. [Easy]</li>
 <li>224. Basic Calculator. [Hard]</li>
 <li>226. Invert Binary Tree. [Easy]</li>
+<li>228. Summary Ranges. [Easy]</li>
 <li>231. Power of Two. [Easy]</li>
 <li>232. Implement Queue using Stacks. [Easy]</li>
 <li>234. Palindrome Linked List. [Easy]</li>
