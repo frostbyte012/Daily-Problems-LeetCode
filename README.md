@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 189</h3>
+<h3>Streak Level 🔥[Pro] : 190</h3>
 
 <hr>
 
@@ -208,6 +208,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1011. Capacity To Ship Packages Within D Days. [Medium]</li>
 <li>1047. Remove All Adjacent Duplicates In String. [Easy]</li>
 <li>1155. Number of Dice Rolls With Target Sum. [Medium]</li>
+<li>1161. Maximum Level Sum of a Binary Tree. [Medium]</li>
 <li>1220. Count Vowels Permutation. [Hard]</li>
 <li>1232. Check If It Is a Straight Line. [Easy]</li>
 <li>1318. Minimum Flips to Make a OR b Equal to c. [Medium]</li>
