@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 190</h3>
+<h3>Streak Level 🔥[Pro] : 193</h3>
 
 <hr>
 
@@ -115,6 +115,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>217. Conatains Duplicate Optimized Problem file. [Easy]</li>
 <li>222. Count Complete Tree Nodes. [Easy]</li>
 <li>224. Basic Calculator. [Hard]</li>
+<li>225. Implement Stack using Queues. [Easy]</li>
 <li>226. Invert Binary Tree. [Easy]</li>
 <li>228. Summary Ranges. [Easy]</li>
 <li>231. Power of Two. [Easy]</li>
@@ -227,6 +228,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1480. Running Sum of 1D Array [Optimized]. [Easy]</li>
 <li>1491. Average Salary Excluding the Minimum and Maximum Salary. [Easy]</li>
 <li>1502. Can Make Arithmetic Progression From Sequence. [Easy]</li>
+<li>1512. Number of Good Pairs. [Easy]<li>
 <li>1523. Count Odd Numbers in an Interval Range. [Easy]</li>
 <li>1531. String Compression II. [Hard]</li>
 <li>1544. Make The String Great. [Easy]</li>
@@ -235,6 +237,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1680. Concatenation of Consecutive Binary Numbers. [Medium]</li>
 <li>1695. Maximum Erasure Value . [Medium]</li>
 <li>1706. Where Will the Ball Fall. [Medium]</li>
+<li>1732. Find the Highest Altitude. [Easy]</li>
 <li>1768. Merge Strings Alternately. [Easy]</li>
 <li>1822. Sign of the Product of an Array. [Easy]</li>
 <li>1832. Check if the Sentence Is Pangram. [Easy]</li>
