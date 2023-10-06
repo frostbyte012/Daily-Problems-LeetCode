@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 193</h3>
+<h3>Streak Level 🔥[Pro] : 194</h3>
 
 <hr>
 
@@ -139,6 +139,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>326. Power of Three. [Easy]</li>
 <li>334. Increasing Triplet Subsequence. [Medium]</li>
 <li>342. Power of Four. [Easy]</li>
+<li>343. Integer Break. [Easy]</li>
 <li>344. Reverse the String Problem file. [Easy] </li>
 <li>345. Reverse Vowels of a String. [Easy]</li>
 <li>354. Russian Doll Envelopes. [Hard] </li>
