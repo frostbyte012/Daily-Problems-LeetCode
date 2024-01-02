@@ -1,3 +1,7 @@
+
+✅C++ || 🔥Beats 100% || Beginner Friendly || Line-By-Line Explanation 
+
+--------------------------------------------------------------------------------------------------
 Here is the full line by line explaination for the approach used.
 
 Intuituion : 
@@ -11,5 +15,5 @@ Complexity :
       Time : O(N)
       Space : O(N)
 	  
-Please Upvote if it helped you. Feel free to comment you doubts and reach out.
+Please Upvote if it helped you. Feel free to comment your doubts and reach out.
 Peace+Love 💓💖💝
