@@ -95,7 +95,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>142. Linked List Cycle II. [Medium]</li>
 <li>144. Binary Tree Preorder Traversal. [Easy]</li>
 <li>150. Evaluate Reverse Polish Notation. [Medium]</li>
-<li>151. Reverse Words in a String.[Easy]<li>
+<li>151. Reverse Words in a String.[Easy]</li>
 <li>152. Maximum Product Subarray. [Medium] </li>
 <li>153. Minimum of Rotated and Sorted Array. [Medium] </li>
 <li>153. Minimum of Rotated and Sorted Array Optimized. [Medium] </li>
