@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 196</h3>
+<h3>Streak Level 🔥[Pro] : 197</h3>
 
 <hr>
 
@@ -210,6 +210,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1009. Complement of Base 10 Integer. [Easy] </li>
 <li>1011. Capacity To Ship Packages Within D Days. [Medium]</li>
 <li>1047. Remove All Adjacent Duplicates In String. [Easy]</li>
+<li>1110. Delete Nodes And Return Forest. [Medium]</li>
 <li>1155. Number of Dice Rolls With Target Sum. [Medium]</li>
 <li>1161. Maximum Level Sum of a Binary Tree. [Medium]</li>
 <li>1220. Count Vowels Permutation. [Hard]</li>
