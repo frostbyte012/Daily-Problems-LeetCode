@@ -26,7 +26,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
-<h3>Streak Level 🔥[Pro] : 197</h3>
+<h3>Streak Level 🔥[Pro] : 198</h3>
 
 <hr>
 
@@ -257,6 +257,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>2389. Longest Subsequence With Limited Sum. [Easy]</li>
 <li>2390. Removing Stars From a String. [Medium]</li>
 <li>2405. Optimal Partition of String. [Medium]</li>
+<li>2418. Sort The People.[Easy]</li>
 <li>2610. Convert am array to a 2D array with intenal conditions. [Easy]</li>
 <li>2149. RearrangeArrayElementsBySign [Medium] </li>
 
