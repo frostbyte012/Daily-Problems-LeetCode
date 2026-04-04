@@ -26,7 +26,11 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 
 <hr>
 
+<<<<<<< HEAD
 <h3>Streak Level 🔥[Pro] : 197</h3>
+=======
+<h3>Streak Level 🔥[Pro] : 198</h3>
+>>>>>>> fcd9d6b99e6b83445f5e518324e6667542c26a03
 
 <hr>
 
@@ -210,6 +214,7 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>1009. Complement of Base 10 Integer. [Easy] </li>
 <li>1011. Capacity To Ship Packages Within D Days. [Medium]</li>
 <li>1047. Remove All Adjacent Duplicates In String. [Easy]</li>
+<li>1110. Delete Nodes And Return Forest. [Medium]</li>
 <li>1155. Number of Dice Rolls With Target Sum. [Medium]</li>
 <li>1161. Maximum Level Sum of a Binary Tree. [Medium]</li>
 <li>1220. Count Vowels Permutation. [Hard]</li>
@@ -257,7 +262,10 @@ Once done kindly update the README.md file by updating the Problems : by adding 
 <li>2389. Longest Subsequence With Limited Sum. [Easy]</li>
 <li>2390. Removing Stars From a String. [Medium]</li>
 <li>2405. Optimal Partition of String. [Medium]</li>
+<li>2418. Sort The People.[Easy]</li>
 <li>2610. Convert am array to a 2D array with intenal conditions. [Easy]</li>
+<li>2149. RearrangeArrayElementsBySign [Medium] </li>
+
 </ul>
 <br>
 <hr>
